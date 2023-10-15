@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.MelehovAG.Sprint0.Task7.V0.Lib\Tyuiu.MelehovAG.Sprint0.Task7.V0.Lib.csproj">
+      <Project>{c8f15fce-87a3-4674-8f5b-03643b49a75e}</Project>
+      <Name>Tyuiu.MelehovAG.Sprint0.Task7.V0.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
