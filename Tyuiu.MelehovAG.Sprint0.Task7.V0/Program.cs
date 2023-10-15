@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using Tyuiu.MelehovAG.Sprint0.Task7.V0.Lib;
+
 namespace Tyuiu.MelehovAG.Sprint0.Task7.V0
 {
     class Program

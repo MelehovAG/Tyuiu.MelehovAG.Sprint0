@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using Tyuiu.MelehovAG.Sprint0.Task6.V0.Lib;
 
 namespace Tyuiu.MelehovAG.Sprint0.Task6.V0.Test
 {

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Tyuiu.MelehovAG.Sprint0.Task6.V0.Lib;
 
 namespace Tyuiu.MelehovAG.Sprint0.Task6.V0
 {
